@@ -1,11 +1,11 @@
 <?php
 
 
-namespace app\core;
+namespace anup\phpmvc;
 
 
-use app\core\db\Database;
-use app\core\db\DbModel;
+use anup\phpmvc\db\Database;
+use anup\phpmvc\db\DbModel;
 use app\models\User;
 
 class Application

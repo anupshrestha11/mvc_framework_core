@@ -1,0 +1,16 @@
+{
+  "name": "anup/php-mvc-core",
+  "description": "Example to create a mvc framework from scratch",
+  "authors": [
+    {
+      "name": "Anup-Shrestha",
+      "email": "anupshresth9@gmail.com"
+    }
+  ],
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "anup\\phpmvc": "./"
+    }
+  }
+}

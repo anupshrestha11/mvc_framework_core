@@ -1,7 +1,7 @@
 <?php
 
 
-namespace app\core;
+namespace anup\phpmvc;
 
 
 abstract class Model

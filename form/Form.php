@@ -1,10 +1,10 @@
 <?php
 
 
-namespace app\core\form;
+namespace anup\phpmvc\form;
 
 
-use app\core\Model;
+use anup\phpmvc\Model;
 
 class Form
 {

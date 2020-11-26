@@ -1,10 +1,10 @@
 <?php
 
 
-namespace app\core;
+namespace anup\phpmvc;
 
 
-use app\core\exception\NotFoundException;
+use anup\phpmvc\exception\NotFoundException;
 
 class Router
 {

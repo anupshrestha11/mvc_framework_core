@@ -1,10 +1,10 @@
 <?php
 
 
-namespace app\core\db;
+namespace anup\phpmvc\db;
 
 
-use app\core\Application;
+use anup\phpmvc\Application;
 
 class Database
 {

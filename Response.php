@@ -1,7 +1,7 @@
 <?php
 
 
-namespace app\core;
+namespace anup\phpmvc;
 
 
 class Response
